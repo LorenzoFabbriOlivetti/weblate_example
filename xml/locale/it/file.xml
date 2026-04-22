@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brochure>
+    <header>
+        <title>Applicazione di test</title>
+        <subtitle>La soluzione semplice per gestire le tue attività</subtitle>
+    </header>
+
+    <introduction>
+        <paragraph>Benvenuto, {username}!</paragraph>
+        <paragraph>Scopri un modo più veloce ed efficiente per organizzare il tuo lavoro quotidiano.</paragraph>
+    </introduction>
+
+    <features>
+        <feature>
+            <title>Facile da usare</title>
+            <description>Interfaccia intuitiva progettata per tutti gli utenti.</description>
+        </feature>
+        <feature>
+            <title>Sicura</title>
+            <description>I tuoi dati sono protetti con tecnologie avanzate.</description>
+        </feature>
+        <feature>
+            <title>Veloce</title>
+            <description>Prestazioni ottimizzate per risparmiare tempo.</description>
+        </feature>
+    </features>
+
+    <notifications>
+        <message type="one">Hai 1 notifica</message>
+        <message type="many">Hai {count} notifiche</message>
+    </notifications>
+
+    <errors>
+        <error code="network">Errore di rete. Riprova più tardi.</error>
+        <error code="not_found">Elemento non trovato.</error>
+        <error code="unknown">Errore sconosciuto ({code})</error>
+    </errors>
+
+    <call_to_action>
+        <text>Inizia oggi stesso e migliora la tua produttività!</text>
+        <button>Scarica ora</button>
+    </call_to_action>
+
+    <footer>
+        <contact>Email: supporto@example.com</contact>
+        <copyright>© 2026 Applicazione di test. Tutti i diritti riservati.</copyright>
+    </footer>
+</brochure>

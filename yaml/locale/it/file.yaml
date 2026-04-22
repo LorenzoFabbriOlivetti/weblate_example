@@ -1,0 +1,36 @@
+brochure:
+  header:
+    title: "Applicazione di test"
+    subtitle: "La soluzione semplice per gestire le tue attività"
+
+  intro:
+    welcome: "Benvenuto, %{username}!"
+    description: "Scopri un modo più veloce ed efficiente per organizzare il tuo lavoro quotidiano."
+
+  features:
+    easy:
+      title: "Facile da usare"
+      description: "Interfaccia intuitiva progettata per tutti gli utenti."
+    secure:
+      title: "Sicura"
+      description: "I tuoi dati sono protetti con tecnologie avanzate."
+    fast:
+      title: "Veloce"
+      description: "Prestazioni ottimizzate per risparmiare tempo."
+
+  notifications:
+    one: "Hai 1 notifica"
+    many: "Hai %{count} notifiche"
+
+  errors:
+    network: "Errore di rete. Riprova più tardi."
+    not_found: "Elemento non trovato."
+    unknown: "Errore sconosciuto (%{code})"
+
+  cta:
+    text: "Inizia oggi stesso e migliora la tua produttività!"
+    button: "Scarica ora"
+
+  footer:
+    contact: "Email: supporto@example.com"
+    copyright: "© 2026 Applicazione di test. Tutti i diritti riservati."
