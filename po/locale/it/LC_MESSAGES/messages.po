@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate Test\n"
+"PO-Revision-Date: 2026-04-17 10:47+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: Italian <http://weblate.example.com/projects/weblate-example/"
+"weblate-example/it/>\n"
+"Language: it\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: home
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#: profile
+msgid "Hello, %s!"
+msgstr "Ciao, %s!"
+
+#: inbox
+msgid "You have %d message"
+msgid_plural "You have %d messages"
+msgstr[0] "Hai %d messaggio"
+msgstr[1] "Hai %d messaggi"
+
+#: button
+msgid "Save"
+msgstr ""
+
+#: menu
+msgid "Settings"
+msgstr ""

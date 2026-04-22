@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate Test\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: home
+msgid "Welcome"
+msgstr "Welcome"
+
+#: profile
+msgid "Hello, %s!"
+msgstr "Hello, %s!"
+
+#: inbox
+msgid "You have %d message"
+msgid_plural "You have %d messages"
+msgstr[0] "You have %d message"
+msgstr[1] "You have %d messages"
+
+#: button
+msgid "Save"
+msgstr "Save"
+
+#: menu
+msgid "Settings"
+msgstr "Settings"
