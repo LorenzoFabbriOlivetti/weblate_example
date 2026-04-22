@@ -1,0 +1,43 @@
+{
+    "brochure": {
+        "header": {
+            "title": "",
+            "subtitle": ""
+        },
+        "intro": {
+            "welcome": "",
+            "description": ""
+        },
+        "features": {
+            "easy": {
+                "title": "",
+                "description": ""
+            },
+            "secure": {
+                "title": "",
+                "description": ""
+            },
+            "fast": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "notifications": {
+            "one": "",
+            "many": ""
+        },
+        "errors": {
+            "network": "",
+            "not_found": "",
+            "unknown": ""
+        },
+        "cta": {
+            "text": "",
+            "button": ""
+        },
+        "footer": {
+            "contact": "",
+            "copyright": ""
+        }
+    }
+}
