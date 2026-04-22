@@ -12,11 +12,11 @@ def setup_translation(lang):
     return translation.gettext, translation.ngettext
 
 # Change language here: "en" or "it"
-_it, n_it = setup_translation("it")
+_it, n_it = setup_translation("en")
 
-print(_it("Welcome"))
-print(_it("Hello, %s!") % "Marco")
-print(n_it("You have %d message", "You have %d messages", 1) % 1)
-print(n_it("You have %d message", "You have %d messages", 5) % 5)
-print(_it("Save"))
-print(_it("Settings"))
+print(_it("Benvenuto"))
+print(_it("Ciao, %s!") % "Marco")
+print(n_it("Hai %d messaggio", "Hai %d messaggi", 1) % 1)
+print(n_it("Hai %d messaggio", "Hai %d messaggi", 5) % 5)
+print(_it("Salva"))
+print(_it("Impostazioni"))

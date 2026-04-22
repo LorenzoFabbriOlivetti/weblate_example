@@ -5,23 +5,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #: home
-msgid "Welcome"
+msgid "Benvenuto"
 msgstr "Welcome"
 
 #: profile
-msgid "Hello, %s!"
+msgid "Ciao, %s!"
 msgstr "Hello, %s!"
 
 #: inbox
-msgid "You have %d message"
-msgid_plural "You have %d messages"
+msgid "Hai %d messaggio"
+msgid_plural "Hai %d messaggi"
 msgstr[0] "You have %d message"
 msgstr[1] "You have %d messages"
 
 #: button
-msgid "Save"
-msgstr "Save"
+msgid "Salva"
+msgstr ""
 
 #: menu
-msgid "Settings"
-msgstr "Settings"
+msgid "Impostazioni"
+msgstr ""

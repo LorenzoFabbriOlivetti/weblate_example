@@ -12,23 +12,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: home
-msgid "Welcome"
+msgid "Benvenuto"
 msgstr "Benvenuto"
 
 #: profile
-msgid "Hello, %s!"
+msgid "Ciao, %s!"
 msgstr "Ciao, %s!"
 
 #: inbox
-msgid "You have %d message"
-msgid_plural "You have %d messages"
+msgid "Hai %d messaggio"
+msgid_plural "Hai %d messaggi"
 msgstr[0] "Hai %d messaggio"
 msgstr[1] "Hai %d messaggi"
 
 #: button
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: menu
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
